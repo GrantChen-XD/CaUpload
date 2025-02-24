@@ -1,4 +1,4 @@
-just a project for myslef
+just a project for myself
  <pre>
                    _oo0oo_
                   o8888888o
